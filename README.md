@@ -1,11 +1,11 @@
 # Blog
 
-👉 [點我查看網站](https://joseph-yen108.github.io/Blog/index)
+👉 [言研經首頁](https://joseph-yen108.github.io/Blog/index)
 
 <hr>
 
 <p align="center" style="color:blue; font-size:18px;">
-  這是一個用 <strong>GitHub Pages</strong> 建立的網站範例。
+  這是一個用 <strong>GitHub Pages</strong> 建立的網站。
 </p>
 
 ## 📝 說明
